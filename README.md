@@ -4,3 +4,5 @@ Code for the paper "The Power of Static Pricing for Reusable Resources" by Aadm 
 2-class_dynamic.py computes Example 1
 
 linear+exponential.py computes the ratios in Table 2
+
+MHR_lower_bounds.py computes the ratios in Table 3
